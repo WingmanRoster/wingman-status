@@ -2,6 +2,7 @@
   "version": "2.0.0",
   "message": "The app is currently unavailable on some airlines, and a resolution is being worked on. Thank you for your patience.",
   "updates": [
+    { "2025-12-08": "Aer Lingus live access is currently unavailable while access permissions are under review. Thank you for your understanding" },
     { "2025-12-09": "Aer Lingus live access is currently unavailable while access permissions are under review. Thank you for your understanding" }
   ]
 }
