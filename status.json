@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "message": "The app is currently unavailable on some airlines, and a resolution is being worked on. Thank you for your patience.",
-  "updates": []
+  "version": null,
+  "message": null,
+  "updates": [{ "2025-12-04": "Live access is temporarily unavailable due to an access restriction set by the airline." }, { "2025-12-05": "The airline has been contacted to resolve the access issue and restore functionality." }]
 }
